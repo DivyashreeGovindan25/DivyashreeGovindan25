@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DivyashreeGovindan25
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Full stack developing
+- 👀 Into developing,analysing and problem solving
+- 🌱 I’m currently working as java springboot developer
 - 📫 How to reach me - divyashreegovindan@gmail.com
 
 <!---
